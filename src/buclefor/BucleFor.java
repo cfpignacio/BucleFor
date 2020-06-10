@@ -60,7 +60,7 @@ public class BucleFor {
     System.out.print("Limite: ");
     limite = leer.nextInt();
     
-    for(int i = 0; i<= 10; i++ ){
+    for(int i = 0; i<= limite ; i++ ){
         
         System.out.println( i + " por " + nuMul + " = " + (nuMul * i));
     
